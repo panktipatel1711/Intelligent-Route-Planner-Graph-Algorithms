@@ -1,0 +1,7 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+web-ui/node_modules/
+web-ui/dist/
+.env
